@@ -3,4 +3,12 @@
   <project name="puskyer/proprietary_vendor_samsung-1" path="vendor/samsung" remote="github" revision="android-4.4" />
   <project name="omnirom/android_device_samsung_aries-common" path="device/samsung/aries-common" remote="github" revision="android-4.4" />
   <project name="omnirom/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="android-4.4" />
+
+  <project name="puskyer/colortail" path="colortail" remote="github" revision="master" />
+  <project name="puskyer/proprietary_vendor_motorola" path="proprietary/vendor/motorola" remote="github" revision="cm-10.1" />
+  <project name="puskyer/android_hardware_libhardware_legacy" path="hardware/libhardware/legacy" remote="github" revision="cm-10.1" />
+  <project name="puskyer/android_device_motorola_olympus" path="device/motorola/olympus" remote="github" revision="cm-10.1-bcm4329" />
+  <project name="puskyer/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="github" revision="cm-10.1" />
+  <project name="puskyer/android_kernel_motorola_olympus" path="kernel/motorola/olympus" remote="github" revision="cm-10.1" />
+  <project name="puskyer/android_vendor_motorola_olympus" path="vendor/motorola/olympus" remote="github" revision="cm-10.1" />
 </manifest>
