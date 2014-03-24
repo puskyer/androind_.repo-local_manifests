@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="puskyer/proprietary_vendor_samsung-1" path="vendor/samsung" remote="github" revision="android-4.4" />
+  <project name="omnirom/android_device_samsung_aries-common" path="device/samsung/aries-common" remote="github" revision="android-4.4" />
+  <project name="omnirom/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="android-4.4" />
+</manifest>
